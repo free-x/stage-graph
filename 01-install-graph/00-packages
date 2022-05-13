@@ -1,1 +1,1 @@
-grafana influxdb kapacitor chronograf python-influxdb curl
+grafana influxdb kapacitor chronograf python3-influxdb curl
