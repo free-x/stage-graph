@@ -1,3 +1,3 @@
-deb https://repos.influxdata.com/debian buster stable
-deb https://packages.grafana.com/oss/deb stable main
+deb [signed-by=/usr/share/keyrings/influx.gpg] https://repos.influxdata.com/debian RELEASE stable
+deb [signed-by=/usr/share/keyrings/grafana.gpg] https://packages.grafana.com/oss/deb stable main
 
